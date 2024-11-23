@@ -1,0 +1,13 @@
+.profile{
+    ul li{
+        list-style: none;
+    }
+    li a{
+        text-decoration: none;
+        color: rgb(89, 89, 196);
+    }
+}
+.skills table{
+   border: 2px solid chocolate; 
+   
+}
